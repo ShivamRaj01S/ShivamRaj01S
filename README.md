@@ -22,7 +22,7 @@ Final Year CSE Student @ IIIT Guwahati | Full Stack Developer | AI Enthusiast
 
 - 💬 Ask me about **C++, Java, JavaScript, React, Node.js, MongoDB, OS, DBMS, DSA**
 
-- 📫 Reach me at **shivamrajs@gmail.com**
+- 📫 Reach me at **shivamrajs5678@gmail.com**
 
 ---
 
